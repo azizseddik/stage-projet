@@ -1,0 +1,106 @@
+body {
+	background: linear-gradient(90deg, #C7C5F4, #776BCC);	
+	
+}
+.application{ 
+    display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+    
+    padding: 2px;
+}
+.screen {		
+	background: linear-gradient(90deg, #5D54A4); 
+    
+}
+.form{ 
+    padding: 100px 100px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: white;  
+    width: 100%;
+    max-width: 500px; 
+    margin-top: 30px;
+    height:fit-content;
+   
+}
+.email{ 
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid #5645d1;
+    outline: none;
+}
+.password{ 
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid #5645d1;
+    outline: none;
+}
+.age{ 
+   
+        width: 50%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: none;
+        border-bottom: 2px solid #5645d1;
+        outline: none;
+    }
+.tel{ 
+    
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid #5645d1;
+    outline: none;
+}
+.prenom{ 
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid #5645d1;
+    outline: none;
+}
+.nom{ 
+        width: 50%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: none;
+        border-bottom: 2px solid #5645d1;
+        outline: none;
+}
+.date{ 
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid #5645d1;
+    outline: none;
+}
+.Envoyer{ 
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid #5645d1;
+    outline: none;
+    background-color: #5645d1;
+    color: white;
+    border-radius: 50px;
+
+}
+.figure{  
+    align-items: center;
+	margin-top: 20px;
+	position: relative;
+	top: -250px;
+    background-color: #5645d1;
+	right: 100px; 
+    border-radius: 50px;
+}
